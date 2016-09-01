@@ -1,0 +1,54 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angularjs/angular.d.ts": {
+      "commit": "55c3e254e151847b8d37ca09b1a566ad4a48a66a"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "mime/mime.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "55c3e254e151847b8d37ca09b1a566ad4a48a66a"
+    },
+    "express/express.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "mongodb/mongodb.d.ts": {
+      "commit": "57ec5fbb76060329c10959d449eb1d4e70b15a65"
+    },
+    "mpromise/mpromise.d.ts": {
+      "commit": "57ec5fbb76060329c10959d449eb1d4e70b15a65"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "57ec5fbb76060329c10959d449eb1d4e70b15a65"
+    },
+    "node/node.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "mongoose-promise/mongoose-promise.d.ts": {
+      "commit": "57ec5fbb76060329c10959d449eb1d4e70b15a65"
+    },
+    "angularjs/angular-cookies.d.ts": {
+      "commit": "55c3e254e151847b8d37ca09b1a566ad4a48a66a"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "bcryptjs/bcryptjs.d.ts": {
+      "commit": "ddc0afa3149b24a0ff64fc80afd045cffdda3ecf"
+    },
+    "promise/promise.d.ts": {
+      "commit": "5d1623c5cce5a01f8e55dece86e06fe2c32dc763"
+    }
+  }
+}
